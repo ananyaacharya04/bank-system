@@ -1,2 +1,4 @@
 
 This code base is on banking system.
+The program is designed in such a way that the user has to enter the card and pin number. 
+ Once verified, he is provided a menu and he/she had to enter the option provided in the menu, by which he can further access the needed option to be accessed.
